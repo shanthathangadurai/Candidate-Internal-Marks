@@ -2,8 +2,8 @@
 
 Trailhead URLs
 
-Team Lead - T.SHANTHA
-Team Member 1 - A.NIVETHA
-Team Member 2 - S.SNEKA
-Team Member 3 - A.DEEPA
-Team Member 4 - K.SUBA
+Team Lead - https://trailblazer.me/id/sthangadurai
+Team Member 1 - https://trailblazer.me/id/nammu18
+Team Member 2 - https://trailblazer.me/id/ssneka5
+Team Member 3 - https://trailblazer.me/id/tdeepa10
+Team Member 4 - https://trailblazer.me/id/ssuba49
